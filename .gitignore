@@ -26,5 +26,9 @@ Thumbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+pkg/*
 [Tt]est[Rr]esult*
+.project
 *~
+*.sublime-project
+*.sublime-workspace
